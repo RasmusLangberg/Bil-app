@@ -33,14 +33,6 @@ namespace Bil_app
             Console.WriteLine("Bilmærke" + " " + Bilmodel);
             Console.WriteLine("Bilmærke" + " " + Årgang);
             Console.WriteLine("Bilmærke" + " " + GearType);
-            Console.WriteLine("Bilmærke" + " " + GearType);
-            Console.WriteLine("Bilmærke" + " " + GearType);
-            Console.WriteLine("Bilmærke" + " " + GearType);
-            Console.WriteLine("Bilmærke" + " " + GearType);
-            Console.WriteLine("Bilmærke" + " " + GearType);
-            Console.WriteLine("Bilmærke" + " " + GearType);
-            Console.WriteLine("Bilmærke" + " " + GearType);
-
             Console.WriteLine("Er denne information korrekt? ja eller nej?");
 
             string input = Console.ReadLine().ToLower();
